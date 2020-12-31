@@ -1,6 +1,6 @@
 # KEY-VALUE DATA STORE
 
-#It is a Java code that store key and value in the Json file and perform CRD operation.
+##It is a Java code that store key and value in the Json file and perform CRD operation.
 
 1. Get key and value from the user and store into the hashtable. (we use hashtable becase it is thread-safe)
 
@@ -15,7 +15,7 @@
 Thus, the key and value will write in the file as a json object and read and delete operation perform if the key is alive.
 
 
-#Code compelexity
+##Code compelexity
 
 If the number od input is 'n', then the code runs in O(n).
 
