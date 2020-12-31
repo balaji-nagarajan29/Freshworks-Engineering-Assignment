@@ -15,10 +15,6 @@
 Thus, the key and value will write in the file as a json object and read and delete operation perform if the key is alive.
 
 
-## Code compelexity
-
-If the number of input is 'n', then the code runs in O(n).
-
 NOTE: The JSON object work when we use JSON.simple jar. we need to include this jar file in our external libraries.
 
 NOTE: we can download the jar using the link: https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
